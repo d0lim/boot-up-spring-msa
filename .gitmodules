@@ -1,0 +1,3 @@
+[submodule "spring-board-example"]
+	path = spring-board-example
+	url = https://github.com/d0lim/spring-board-example
