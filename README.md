@@ -2,7 +2,7 @@
 
 ## 무엇을 하는 레포지토리인가요?
 
-이 레포지토리는 MSA에 대한 지식이 빈약한 [제](https://github.com/d0lim)가 간단한 게시판 예제를 기반으로 Apache Kafka, Istio 등의 MSA 개념을 익히는 것을 목표로 하는 레포지토리입니다.  
+이 레포지토리는 Java Spring, MSA에 대한 지식이 빈약한 [제](https://github.com/d0lim)가 간단한 게시판 예제를 기반으로 Apache Kafka, Istio 등의 MSA 개념을 익히는 것을 목표로 하는 레포지토리입니다.  
 아래의 To Do 를 수행하면서 블로그에 문서화할 예정입니다.
 
 ## To Do
